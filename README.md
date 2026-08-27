@@ -23,18 +23,6 @@ The main objectives of this project are to:
 
 ---
 
-## 📈 Dashboard KPIs
-
-The dashboard provides the following key metrics:
-
-| KPI | Value |
-|---|---:|
-| **Total Quantity** | 5,615 |
-| **Total Profit** | 37K |
-| **Total Amount** | 438K |
-
----
-
 ## 📊 Dashboard Visualizations
 
 ### 1. Profit by Sub-Category
